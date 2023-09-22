@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="electric_car" type="signal_node.py" name="signal_node" output="screen"></node>
+    <node pkg="electric_car" type="driver_node.py" name="driver_node" output="screen"></node>
+    <node pkg="electric_car" type="controlled_pwm_voltage_node.py" name="controlled_pwm_voltage" output="screen"></node>
+    <node pkg="electric_car" type="h_bridge_node.py" name="h_bridge_node" output="screen"></node>
+    <node pkg="electric_car" type="dc_motor_node.py" name="dc_motor_node" output="screen"></node>
+    <node pkg="electric_car" type="simple_gear_node.py" name="simple_gear_node" output="screen"></node>
+    <node pkg="electric_car" type="differential_node.py" name="differential_node" output="screen"></node>
+    <node pkg="electric_car" type="power_node.py" name="power_node" output="screen"></node>
+</launch>

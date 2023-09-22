@@ -1,0 +1,5 @@
+float32 gasPedalAngle
+float32 minGasPedalAngle
+float32 maxGasPedalAngle
+bool brake
+float32 steerAngle

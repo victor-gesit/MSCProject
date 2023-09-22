@@ -1,0 +1,28 @@
+float32 driverMinGasPedalAngle
+float32 driverMaxGasPedalAngle
+float32 driverKP
+float32 driverKI
+float32 driverVehicleMaxSpeed
+
+float32 pwmMinOutputVoltage
+float32 pwmMaxOutputVoltage
+
+float32 hBridgeMinOutputVoltage
+float32 hBridgeMaxOutputVoltage
+
+float32 motorResistance
+float32 motorInductance
+float32 motorBackEMFConstant
+float32 motorTorqueConstant
+
+float32 gearRatio
+float32 gearEfficiency
+
+float32 differentialEfficiency
+
+float32 vehicleBodyDragCoefficient
+float32 vehicleBodyReferenceArea
+
+float32 batteryCapacity
+float32 batteryPercentage
+float32 batteryOutputVoltage

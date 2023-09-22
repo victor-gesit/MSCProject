@@ -1,0 +1,2 @@
+float32 percentageLeft
+float32 maxVoltage

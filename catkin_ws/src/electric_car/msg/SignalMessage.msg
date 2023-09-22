@@ -1,0 +1,2 @@
+float32 referenceVelocity
+float32 referenceSteerAngle
